@@ -1,0 +1,8 @@
+{
+  "series": "ec2_cpu_utilization_53ea38.csv",
+  "resample_rule": "5min",
+  "lags": 24,
+  "model": "Ridge(alpha=1.0)",
+  "mae": 0.04490516302559592,
+  "rmse": 0.06762864104937613
+}
