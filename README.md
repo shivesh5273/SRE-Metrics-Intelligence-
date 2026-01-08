@@ -45,7 +45,7 @@ Two methods:
   - MAE
   - RMSE
 
-### 4) Artifact export (GitHub-friendly)
+### 4) Artifact export 
 Exports:
 - `images/anomaly_plot.png`
 - `artifacts/top_50_anomalies.csv`
@@ -56,7 +56,7 @@ Exports:
 
 ---
 
-## Results summary (your run)
+## Results summary 
 - Resample frequency: **5 minutes**
 - Baseline anomalies flagged: **5**
 - IsolationForest anomalies flagged: **121**
@@ -69,4 +69,5 @@ Exports:
 - Ridge forecaster tracks short-term dynamics closely (low MAE/RMSE).
 
 ---
+
 
